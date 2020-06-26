@@ -6,6 +6,8 @@ Users that have signed up can schedule other users and send a message within the
 There is an administrator view and a user view.
 Only administrators can schedule other users to be on-call.
 
+![Pagr Image](https://raw.githubusercontent.com/pattenbranden/pagr/master/Pagr.PNG)
+
 ## Getting Started
 
 Open [the live demonstration](https://pagr.herokuapp.com) in your browser.
